@@ -41,10 +41,10 @@ const config: Config = {
       screens: {
         xs: "420px",
       },
-      // fontFamily: {
-      //   inter: ["var(--font-inter)"],
-      //   "space-grotesk": ["var(--font-space-grotesk)"],
-      // },
+      fontFamily: {
+        inter: ["var(--font-inter)"],
+        "space-grotesk": ["var(--font-space-grotesk)"],
+      },
       // borderRadius: {
       //   "2": "8px",
       //   "1.5": "6px",
